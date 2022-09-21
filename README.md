@@ -12,12 +12,14 @@ Below are some screenshots of the final App built during the tutorial:
         alt="Customer's Screen screenshot"
         title="Customer's Screen screenshot"
         style="display: inline-block; margin: 0 auto; max-width: 150px"
+        width="300"
     />
     <img
         src="./assets/screenshots/screenshot2.png"
         alt="Customer's Card screenshot"
         title="Customer's Card screenshot"
         style="display: inline-block; margin: 0 auto; max-width: 150px"
+        width="300"
     />
     <br />
     <img
@@ -25,11 +27,13 @@ Below are some screenshots of the final App built during the tutorial:
         alt="Orders' Screen screenshot"
         title="Orders' Screen screenshot"
         style="display: inline-block; margin: 0 auto; max-width: 150px"
+        width="300"
     />
     <img
         src="./assets/screenshots/screenshot4.png"
         alt="Orderss Card screenshot"
         title="Orderss Card screenshot"
         style="display: inline-block; margin: 0 auto; max-width: 150px"
+        width="300"
     />
 </div>
